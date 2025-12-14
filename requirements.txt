@@ -1,0 +1,15 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+networkx
+python-louvain
+igraph
+leidenalg
+node2vec
+python-dotenv
+GitPython
+PyGithub
+pydantic
+litellm
+torch
